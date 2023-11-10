@@ -1,10 +1,10 @@
 # Polina Mashukova
 
-## Junior Frontend Developer
+### Junior Frontend Developer
 
 ![photo](https://avatars.githubusercontent.com/u/117856226?v=4)
 
-### Contact information:
+## Contact information:
 
 **Phone:** +48512696309
 
@@ -16,11 +16,11 @@
 
 [LinkedIn](https://www.linkedin.com/in/polina-mashukova-662965251/)
 
-### About me:
+## About me:
 
 Why am I front end? After more than 10 years in gastronomy and achieving my goals, I decided to retrain in the field of IT in order to maximize my potential. I chose frontend because I love adding art to what I do. Throughout the year, I attended courses, studied with a tutor and studied on my own in order to achieve results and develop my skills every day (with Stepik.org, youtube channel IT-kamasutra). In the near future, I want to actively develop in the field of IT, draw on all possible knowledge to grow into a full stack developer. I love traveling, nature, the coffee industry, music, self- development and yoga.
 
-### Hard Skills:
+## Hard Skills:
 
 * HTML
 * CSS/SASS
@@ -31,24 +31,27 @@ Why am I front end? After more than 10 years in gastronomy and achieving my goal
 * GitHub
 * NPM
 
-### Experience:
+## Experience:
 
 **Frontend Developer** (graduated student)
+
 *TeachMeSkills*
+
 Oсtober 2022 - July 2023
+
 **Skills:**
 * Good working knowledge of JavaScript/TypeScript/ React/Redux
 * Work well with a team and pair programmers. Interpret colleagues' code
 * Experience working with different style libraries, build tools, Github and Figma
 * Integration of various APIs in educational projects Permanent using Chrome/ Redux DevTools
 
-### My projects:
+## My projects:
 
 [Online store Kjølig](https://bright-palmier-b40f4a.netlify.app/)
 
 [KinoForce](https://beamish-faun-b3f8f3.netlify.app/)
 
-### Courses:
+## Courses:
 
 * Web-technologies
 [Stepik.org](https://stepik.org/learn)
@@ -57,14 +60,14 @@ Oсtober 2022 - July 2023
 * JavaScript/Front-end (in progress)
 [RS Schools](https://rs.school/)
 
-### Languages:
+## Languages:
 
 * English - B1 
 * Polish - B2 
 * Russian - C2 
 * Belorussian - C1
 
-### Code example:
+## Code example:
 
 Create a program to find the sum of the minimum and maximum of three entered numbers.
 
